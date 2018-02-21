@@ -26,9 +26,12 @@ p.image {
 
 <p class="date">Febrero, 2018</p>
 
+<p><b>Perfil:</b></p>
+<p>Estudiante de ingeniera de sistemas, con experiencia en el desarrollo de aplicaciones standalone, aplicaciones web, webservices bajo los lenguajes de información JAVA, JavaScript; experiencia en procesos de migración y sincronización de información a nivel de base de datos bajo motores ORACLE, POSTGRESQL, MYSQL; experiencia en el uso de herramienta de automatización de procesos bajo BPMN.</p>
+
 <p class="main"></p>
 
-<p><b>Note:</b> </p>
+<p><b>Note:</b></p>
 
 </body>
 </html>
