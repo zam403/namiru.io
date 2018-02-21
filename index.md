@@ -1,22 +1,6 @@
 <html>
 <head>
-<style>
-h1 {
-    text-align: center;
-}
-
-p.date {
-    text-align: right;
-}
-
-p.main {
-    text-align: justify;
-}
-
-p.image {
-    text-align: center;
-}
-</style>
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
 </head>
 <body>
 
