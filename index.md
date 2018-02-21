@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## LUIS ALFONSO ZAMORA URREGO
+
+<img src="https://avatars1.githubusercontent.com/u/14162762?s=400&u=8761f3da4a81d83cd1497c03f75d3de5b840e52e&v=4" alt="">
 
 You can use the [editor on GitHub](https://github.com/zam403/namiru.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
